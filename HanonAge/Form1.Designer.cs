@@ -50,6 +50,7 @@
 			ButtonGo.TabIndex = 1;
 			ButtonGo.Text = "実行";
 			ButtonGo.UseVisualStyleBackColor = true;
+			ButtonGo.Click += ButtonGo_Click;
 			// 
 			// ButtonCancel
 			// 
