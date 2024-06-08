@@ -60,6 +60,7 @@
 			ButtonCancel.TabIndex = 2;
 			ButtonCancel.Text = "キャンセル";
 			ButtonCancel.UseVisualStyleBackColor = true;
+			ButtonCancel.Click += ButtonCancel_Click;
 			// 
 			// Form1
 			// 

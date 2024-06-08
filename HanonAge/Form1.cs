@@ -46,5 +46,10 @@ namespace HanonAge
 
 			Close();
 		}
+
+		private void ButtonCancel_Click(object sender, EventArgs e)
+		{
+			Close();
+		}
 	}
 }
